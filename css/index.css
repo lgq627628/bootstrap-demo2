@@ -1,0 +1,39 @@
+body{
+	font-family: '微软雅黑';
+}
+.mar_t15{
+	margin-top: 15px;
+}
+/*进度条开始*/
+.progress{
+	margin-bottom: 15px;
+}
+/*进度条结束*/
+.wh64{
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+}
+/*头像开始*/
+.page-header{
+	margin-top: 0;
+}
+.page-header h2{
+	margin: 0;
+	font-size: 16px;
+}
+.search{
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-top: none;
+}
+.taglist .alert{
+	margin: 15px 15px 10px 15px;
+}
+/*脚部开始*/
+footer{
+	text-align: center;
+	font-weight: 400;
+	padding: 20px 0;
+}
+/*脚步结束*/
